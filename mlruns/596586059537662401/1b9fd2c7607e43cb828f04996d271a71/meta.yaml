@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/AI Projects/Regression Project/mlruns/596586059537662401/1b9fd2c7607e43cb828f04996d271a71/artifacts
+end_time: 1766586681666
+entry_point_name: ''
+experiment_id: '596586059537662401'
+lifecycle_stage: active
+run_id: 1b9fd2c7607e43cb828f04996d271a71
+run_name: receptive-hog-961
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766586479061
+status: 3
+tags: []
+user_id: Lenovo

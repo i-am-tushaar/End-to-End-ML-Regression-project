@@ -1,0 +1,6 @@
+artifact_location: file:///f:/AI Projects/Regression Project/mlruns/596586059537662401
+creation_time: 1766585273884
+experiment_id: '596586059537662401'
+last_update_time: 1766585273884
+lifecycle_stage: active
+name: xgboost_optuna_housing

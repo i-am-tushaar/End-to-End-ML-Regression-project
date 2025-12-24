@@ -1,0 +1,22 @@
+artifact_path: file:///f:/AI Projects/Regression Project/mlruns/596586059537662401/models/m-e179e23614914e2c82253b3814a128ad/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.14
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.8.0
+mlflow_version: 3.7.0
+model_id: m-e179e23614914e2c82253b3814a128ad
+model_size_bytes: 575428
+model_uuid: m-e179e23614914e2c82253b3814a128ad
+prompts: null
+run_id: cebf7542fb8f40fabaa94075dceeab0d
+utc_time_created: '2025-12-24 14:40:25.735521'

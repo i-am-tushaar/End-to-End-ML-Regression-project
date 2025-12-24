@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/AI Projects/Regression Project/mlruns/596586059537662401/342f00205e0045479e6095006d7e3cdd/artifacts
+end_time: 1766586764851
+entry_point_name: ''
+experiment_id: '596586059537662401'
+lifecycle_stage: active
+run_id: 342f00205e0045479e6095006d7e3cdd
+run_name: upset-elk-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766586718418
+status: 3
+tags: []
+user_id: Lenovo

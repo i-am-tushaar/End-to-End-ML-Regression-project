@@ -11,3 +11,6 @@ wheels/
 
 # Ignore all data (raw + processed)
 data/
+
+# MLflow artifacts
+mlruns/

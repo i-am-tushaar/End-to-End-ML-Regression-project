@@ -1,0 +1,10 @@
+artifact_location: file:///f:/AI Projects/Regression Project/mlruns/596586059537662401/models/m-e179e23614914e2c82253b3814a128ad/artifacts
+creation_timestamp: 1766587225610
+experiment_id: '596586059537662401'
+last_updated_timestamp: 1766587261677
+model_id: m-e179e23614914e2c82253b3814a128ad
+model_type: null
+name: model
+source_run_id: cebf7542fb8f40fabaa94075dceeab0d
+status: 2
+status_message: null

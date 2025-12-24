@@ -1,0 +1,14 @@
+artifact_uri: file:///f:/AI Projects/Regression Project/mlruns/596586059537662401/a0998ec3ffb44d03bc44e478e026bd1a/artifacts
+end_time: 1766587050155
+entry_point_name: ''
+experiment_id: '596586059537662401'
+lifecycle_stage: active
+run_id: a0998ec3ffb44d03bc44e478e026bd1a
+run_name: best_xgboost_model
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1766587049474
+status: 4
+tags: []
+user_id: Lenovo
