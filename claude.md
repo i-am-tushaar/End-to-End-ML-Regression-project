@@ -1,4 +1,6 @@
-## Housing ML end2end Project
+# CLAUDE.md
+
+This file provides guidance to Claude Code (claude.ai/code) when working with code in this repository.
 
 ## Project Overview
 
@@ -189,3 +191,8 @@ Key production dependencies (see `pyproject.toml`):
 - **`tests/`**: Comprehensive test suite with sample data
 - **AWS Task Definitions**: `housing-api-task-def.json`, `streamlit-task-def.json`
 - **CI/CD**: `.github/workflows/ci.yml` for automated deployment
+
+## Production URLs
+
+- **API**: `http://housing-api-alb-945997111.eu-west-2.elb.amazonaws.com`
+- **Dashboard**: `http://housing-api-alb-945997111.eu-west-2.elb.amazonaws.com/dashboard`
